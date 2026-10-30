@@ -1,0 +1,10 @@
+# Generated MetaTrader files
+*.ex5
+*.log
+*.tmp
+*.bak
+# Local credentials and large raw market datasets
+.env
+.env.*
+MQL5/Files/*
+!MQL5/Files/.gitkeep
